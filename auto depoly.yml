@@ -33,4 +33,3 @@ jobs:
       name: Deploying using surge
       run: surge ./disagreeable-spiders.surge.sh --token ${{ sececte.surge token }}
       
-        }}
